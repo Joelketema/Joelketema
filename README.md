@@ -1,4 +1,4 @@
-### Hi there 👋
+###                         Hello there, I am Eyuel Ketema. Welcome to my github page 👋
 
 ![](https://komarev.com/ghpvc/?username=Joelketema&color=red)
 <!--
