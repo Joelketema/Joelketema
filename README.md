@@ -1,7 +1,7 @@
 ###                         Hello there, I am Eyuel Ketema. Welcome to my github page 👋
 
 ![](https://komarev.com/ghpvc/?username=Joelketema&color=red)
-Developer and Entrepreneur. Currently studying Software Engineering at Addis Ababa Science and Technology. I love web/mobile development technologies.
+#Developer and Entrepreneur. Currently studying Software Engineering at Addis Ababa Science and Technology.I love web/mobile development technologies.
 <!--
 **Joelketema/Joelketema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
