@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=Joelketema&color=red)
 
 Developer and Entrepreneur. Currently studying Software Engineering at Addis Ababa Science and Technology.I love web/mobile development technologies.
+
+😀 My portfolio [EyuelKetema](https://eyuelketema.netlify.app).
 <!--
 **Joelketema/Joelketema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
